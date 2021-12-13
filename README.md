@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pitersmacri
-- 👀 I’m interested in Traffic Bots, SEO, Webdesign, Wordpress, CSS, HTML5,Jquery, Responsive Layouts, BI, Power Bi, Soccer and other interested.
+- 👀 I’m interested in Traffic Bots, SEO, Webdesign, Wordpress, CSS, HTML5,Jquery, Responsive Layouts, BI, Power BI, Soccer and other interested.
 - 🌱 I’m currently learning Power BI.
 
 <!---
